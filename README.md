@@ -1,5 +1,15 @@
 # Openstack-Artifice
 
+# UPDATE #
+
+This project is *deprecated.*
+Please see https://github.com/catalyst/distil for an up-to-date and maintained billing system.
+
+
+
+
+
+
 ## What
 
 Artifice is a prototype of a data aggregation and billing generation layer, intended to tightly couple with the Openstack-Ceilometer 
